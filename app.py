@@ -49,4 +49,4 @@ def drop_treat():
 	return "DROPPED TREAT"
 
 if __name__ == "__main__":
-	app.run(host="0.0.0.0", port="3000", threaded=True)
+	app.run(host="0.0.0.0", port="80", threaded=True)
