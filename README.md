@@ -60,10 +60,10 @@ Create a cronjob with `sudo crontab -e` to automatically set up and start the we
 ```
 
 ## Port forward the app
-Make sure to change your router settings to allow a port forward of port 3000 to your Raspberry Pi. This is what makes the web app accessible to the internet.
+Make sure to change your router settings to allow a port forward of port 80 to your Raspberry Pi. This is what makes the web app accessible to the internet.
 
 ## View the video stream
-On your smartphone or laptop, browse to your router's external IP on port 3000 to view the video stream of your pets. Press the button to drop treats into your pets' bowl.
+On your smartphone or laptop, browse to your router's external IP on port 80 to view the video stream of your pets. Press the button to drop treats into your pets' bowl.
 
 ## Resources
 ### Recommended print settings
